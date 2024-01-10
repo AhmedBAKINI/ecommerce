@@ -1,0 +1,15 @@
+C:\Workspace\AngularNet\buy4yourself\Contrat\bin\Debug\net8.0\Contrat.deps.json
+C:\Workspace\AngularNet\buy4yourself\Contrat\bin\Debug\net8.0\Contrat.dll
+C:\Workspace\AngularNet\buy4yourself\Contrat\bin\Debug\net8.0\Contrat.pdb
+C:\Workspace\AngularNet\buy4yourself\Contrat\bin\Debug\net8.0\Core.dll
+C:\Workspace\AngularNet\buy4yourself\Contrat\bin\Debug\net8.0\Core.pdb
+C:\Workspace\AngularNet\buy4yourself\Contrat\obj\Debug\net8.0\Contrat.csproj.AssemblyReference.cache
+C:\Workspace\AngularNet\buy4yourself\Contrat\obj\Debug\net8.0\Contrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\AngularNet\buy4yourself\Contrat\obj\Debug\net8.0\Contrat.AssemblyInfoInputs.cache
+C:\Workspace\AngularNet\buy4yourself\Contrat\obj\Debug\net8.0\Contrat.AssemblyInfo.cs
+C:\Workspace\AngularNet\buy4yourself\Contrat\obj\Debug\net8.0\Contrat.csproj.CoreCompileInputs.cache
+C:\Workspace\AngularNet\buy4yourself\Contrat\obj\Debug\net8.0\Contrat.csproj.CopyComplete
+C:\Workspace\AngularNet\buy4yourself\Contrat\obj\Debug\net8.0\Contrat.dll
+C:\Workspace\AngularNet\buy4yourself\Contrat\obj\Debug\net8.0\refint\Contrat.dll
+C:\Workspace\AngularNet\buy4yourself\Contrat\obj\Debug\net8.0\Contrat.pdb
+C:\Workspace\AngularNet\buy4yourself\Contrat\obj\Debug\net8.0\ref\Contrat.dll
